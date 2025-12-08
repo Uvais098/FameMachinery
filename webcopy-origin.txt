@@ -1,0 +1,440 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.svg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.svg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.svg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.4.1.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\s\poppins\v24\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\bootstrap\4.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\bootstrap\4.4.1\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/about.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\about.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/builerz/blog.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\blog.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/builerz/contact.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\contact.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/builerz/css/style.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\css\style.css
+Content Type: text/css
+
+Uri: https://themewagon.github.io/builerz/img/about.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\about.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/blog-1.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/blog-2.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/blog-3.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/carousel-1.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\carousel-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/carousel-2.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\carousel-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/carousel-3.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\carousel-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/portfolio-1.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/portfolio-2.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/portfolio-3.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/portfolio-4.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/portfolio-5.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/portfolio-6.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/post-1.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/post-2.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/post-3.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/post-4.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/post-5.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/quote.png
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\quote.png
+Content Type: image/png
+
+Uri: https://themewagon.github.io/builerz/img/service-1.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/service-2.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/service-3.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/service-4.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/service-5.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/service-6.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\service-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/single.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\single.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/team-1.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/team-2.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/team-3.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/team-4.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/testimonial-1.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\testimonial-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/testimonial-2.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\testimonial-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/testimonial-3.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\testimonial-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/testimonial-4.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\testimonial-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/img/user.jpg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\img\user.jpg
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/builerz/index.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\index.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/builerz/js/main.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\js\main.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/animate/animate.min.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://themewagon.github.io/builerz/lib/counterup/counterup.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/easing/easing.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\easing\easing.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/flaticon/font/flaticon.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\flaticon\font\flaticon.css
+Content Type: text/css
+
+Uri: https://themewagon.github.io/builerz/lib/flaticon/font/Flaticon.eot
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\flaticon\font\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themewagon.github.io/builerz/lib/flaticon/font/Flaticon.eot?
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\flaticon\font\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themewagon.github.io/builerz/lib/flaticon/font/Flaticon.svg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\flaticon\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://themewagon.github.io/builerz/lib/flaticon/font/Flaticon.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\flaticon\font\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://themewagon.github.io/builerz/lib/flaticon/font/Flaticon.woff
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\flaticon\font\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://themewagon.github.io/builerz/lib/flaticon/font/Flaticon.woff2
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\flaticon\font\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://themewagon.github.io/builerz/lib/isotope/isotope.pkgd.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/lightbox/css/lightbox.min.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\lightbox\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://themewagon.github.io/builerz/lib/lightbox/images/close.png
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\lightbox\images\close.png
+Content Type: image/png
+
+Uri: https://themewagon.github.io/builerz/lib/lightbox/images/loading.gif
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\lightbox\images\loading.gif
+Content Type: image/gif
+
+Uri: https://themewagon.github.io/builerz/lib/lightbox/images/next.png
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\lightbox\images\next.png
+Content Type: image/png
+
+Uri: https://themewagon.github.io/builerz/lib/lightbox/images/prev.png
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\lightbox\images\prev.png
+Content Type: image/png
+
+Uri: https://themewagon.github.io/builerz/lib/lightbox/js/lightbox.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\lightbox\js\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://themewagon.github.io/builerz/lib/owlcarousel/assets/owl.video.play.png
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://themewagon.github.io/builerz/lib/owlcarousel/owl.carousel.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/slick/ajax-loader.gif
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://themewagon.github.io/builerz/lib/slick/fonts/slick.eot
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themewagon.github.io/builerz/lib/slick/fonts/slick.eot?
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themewagon.github.io/builerz/lib/slick/fonts/slick.svg
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://themewagon.github.io/builerz/lib/slick/fonts/slick.ttf
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://themewagon.github.io/builerz/lib/slick/fonts/slick.woff
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://themewagon.github.io/builerz/lib/slick/slick-theme.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://themewagon.github.io/builerz/lib/slick/slick.css
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\slick.css
+Content Type: text/css
+
+Uri: https://themewagon.github.io/builerz/lib/slick/slick.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/waypoints/waypoints.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/lib/wow/wow.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\lib\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/mail/contact.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\mail\contact.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/mail/jqBootstrapValidation.min.js
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\mail\jqBootstrapValidation.min.js
+Content Type: application/javascript
+
+Uri: https://themewagon.github.io/builerz/portfolio.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\portfolio.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/builerz/service.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\service.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/builerz/single.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\single.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/builerz/team.html
+File Name: C:\Users\Admin\Desktop\New folder\themewagon.github.io\builerz\team.html
+Content Type: text/html
+
